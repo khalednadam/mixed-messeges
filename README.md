@@ -1,4 +1,4 @@
-# Mixed messeges genertaotr 
-*A program that generates random messeges*
+# Mixed messeges generator 
+__A program that generates random messeges__ 
 - Used technologies
-    - JavaScript
+    -- JavaScript
